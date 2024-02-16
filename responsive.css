@@ -143,4 +143,16 @@
     width: 210px;
     overflow: hidden;
   }
+
+  .faq-box span{
+    font-size: 1rem;
+  }
+  .answer p{
+    font-size: 1.125rem;
+  }
+
+  .answer{
+    width: 90vw;
+  }
+  
 }
