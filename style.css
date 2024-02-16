@@ -59,19 +59,19 @@ button,
   padding: 30px;
 }
 
-.hero> :nth-child(1) {
+.hero > :nth-child(1) {
   font-weight: 900;
   font-size: 3rem;
   text-align: center;
 }
 
-.hero> :nth-child(2) {
+.hero > :nth-child(2) {
   font-weight: 400;
   font-size: 1.5rem;
   text-align: center;
 }
 
-.hero> :nth-child(3) {
+.hero > :nth-child(3) {
   font-weight: 400;
   font-size: 1.25rem;
   text-align: center;
@@ -155,7 +155,7 @@ input::placeholder {
   overflow: hidden;
 }
 
-.one>div {
+.one > div {
   display: flex;
   flex-direction: column;
 }
@@ -197,7 +197,7 @@ input::placeholder {
   padding: 1rem;
 }
 
-.hero>div h3 {
+.hero > div h3 {
   font-size: 1.5rem;
   font-weight: 400;
   text-align: center;
@@ -221,8 +221,7 @@ footer .footer-item {
   flex-direction: column;
 }
 
-
-footer>div,
+footer > div,
 a {
   color: #969496;
   font-size: 1rem;
