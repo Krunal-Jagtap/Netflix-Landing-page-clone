@@ -1,5 +1,5 @@
 # Netflix-Landing-page-clone
-Live On Netlify --->  https://netflix-by-krunal-jagtap.netlify.app/
+Live On Netlify --->  https://netflix-ui-by-krunal-jagtap.netlify.app
 
 
 
